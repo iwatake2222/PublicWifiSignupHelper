@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Public WiFi Sign Up Helper</string>
+    <string name="signup">Sign Up</string>
+    <string name="get_ip_config">Get IP config</string>
+    <string name="item_name_ssid">SSID</string>
+    <string name="item_name_ip_address">IP Address</string>
+    <string name="item_name_gateway">Gateway</string>
+    <string name="item_name_dns1">DNS1</string>
+    <string name="item_name_dns2">DNS2</string>
+    <string name="item_name_mac_address">MAC ADDRESS</string>
+    <string name="dlg_error_title">Error: Cannot get WiFi Config</string>
+    <string name="dlg_error_msg">Please check WiFi connection</string>
+</resources>
